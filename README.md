@@ -1,6 +1,6 @@
-# mea_demo1
-a demo repository
+# mea_demo3
+a demo collaborative work
 
 ##introduction
 
-demo
+This is the third file in the repo. There are several spelling mistakes to fix.
